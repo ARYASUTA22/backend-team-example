@@ -1,2 +1,2 @@
 # backend-team-example
-woi suta
+tidak boleh kasar
